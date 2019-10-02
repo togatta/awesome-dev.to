@@ -124,6 +124,12 @@
 			"Series-Title" : "Become a Fullstack JavaScript Developer",
 			"link" : "https://dev.to/hoangbkit/become-a-fullstack-javascript-developer-part-1-the-motivation-1h4c",
 			"author" : "Hoang Nguyen"
-		}
+		},
+		{
+                        "Series-Title" : "The Top 10 Books on DevOps You Need to Read",
+                        "link" : "https://dev.to/pluralsight/the-top-10-books-on-devops-you-need-to-read-45m2",
+                        "author" : "Jeremy Morgan"
+                }
+
 	]
 }
